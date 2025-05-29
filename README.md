@@ -19,10 +19,10 @@ My deep interest and professional drive is centered on harnessing these AI/ML ca
 ## 🧠 My Academic Journey (Western Governors University - WGU)
 
 * **Actively completing** WGU's accelerated **Bachelor of Science in Computer Science (BSCS)** program.
-    * *Focus areas: Data Structures & Algorithms, software engineering, computer architecture, and a multi-course sequence in Artificial Intelligence including optimization and machine learning foundations.*
+    * *Focus areas: Object-Oriented Programming (Java), Data Structures & Algorithms, Data Management (SQL), Operating Systems & Architecture, Software Engineering & QA, and a comprehensive sequence in AI & Machine Learning.*
     * *Explore the [Accelerated BSCS Program Guide](https://www.wgu.edu/online-it-degrees/computer-science/accelerated/program-guide.html) for more details.*
 * Transitioning to WGU's **Master of Science in Computer Science (MSCS) with a specialization in Computing Systems** upon BSCS completion.
-    * *Focus areas: Scalable system design for distributed cloud systems, advanced software and network architecture, analysis of emerging computing systems, and Governance, Risk & Compliance (GRC).*
+    * *Focus areas: Scalable Systems Architecture, Distributed Cloud Computing, Network Design & Security, Mobile & Ubiquitous Computing, Analysis of Emerging Computing Systems, and Governance, Risk & Compliance (GRC).*
     * *Explore the [MSCS in Computing Systems Program Guide](https://www.wgu.edu/online-it-degrees/computer-science-masters-program/computing-systems/program-guide.html) for more details.*
 * Relocating to the **Pensacola, FL Metropolitan Area** in Summer 2026.
 
