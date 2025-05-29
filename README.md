@@ -19,11 +19,11 @@ My deep interest and professional drive is centered on harnessing these AI/ML ca
 ## 🧠 My Academic Journey (Western Governors University - WGU)
 
 * **Actively completing** WGU's accelerated **Bachelor of Science in Computer Science (BSCS)** program.
-    * *Focus areas: Programming & logic, architecture & systems, data structures, foundational AI, and the theory of computing.*
+    * *Focus areas: Data Structures & Algorithms, software engineering, computer architecture, and a multi-course sequence in Artificial Intelligence including optimization and machine learning foundations.*
     * *Explore the [Accelerated BSCS Program Guide](https://www.wgu.edu/online-it-degrees/computer-science/accelerated/program-guide.html) for more details.*
-* Transitioning to WGU's **Master of Science in Computer Science (MSCS) with a specialization in AI & Machine Learning** upon BSCS completion.
-    * *Focus areas: Advanced AI algorithms, deep learning, natural language processing (NLP), scalable AI systems design, secure software development for AI, Governance, Risk & Compliance (GRC), and ethical AI practices.*
-    * *Explore the [MSCS in AI/ML Program Guide](https://www.wgu.edu/online-it-degrees/computer-science-masters-program/artificial-intelligence-machine-learning/program-guide.html) for more details.*
+* Transitioning to WGU's **Master of Science in Computer Science (MSCS) with a specialization in Computing Systems** upon BSCS completion.
+    * *Focus areas: Scalable system design for distributed cloud systems, advanced software and network architecture, analysis of emerging computing systems, and Governance, Risk & Compliance (GRC).*
+    * *Explore the [MSCS in Computing Systems Program Guide](https://www.wgu.edu/online-it-degrees/computer-science-masters-program/computing-systems/program-guide.html) for more details.*
 * Relocating to the **Pensacola, FL Metropolitan Area** in Summer 2026.
 
 ---
@@ -80,6 +80,9 @@ My skillset is a blend of extensive hands-on experience from the Navy, comprehen
 ---
 
 ## 🏅 Licenses & Certifications
+
+* **CompTIA Security+ ce** (CompTIA)
+    * *Issued: May 2025* - [Verify Credential ID: CCZV6JS57BQ42QYJ](https://www.credly.com/badges/fb6629f2-8db5-4228-8d8a-63cfadeab350/public_url)
 
 * **Google Cybersecurity Specialization** (Google)
     * *Issued: Mar 2025* - [Verify Credential ID: QF1T9PSUVUIB](https://www.coursera.org/account/accomplishments/specialization/QF1T9PSUVUIB)
