@@ -96,7 +96,7 @@ Education and training listed here reflect professional certificates, ACE/FIBAA-
 
 ## Background
 
-### U.S. Navy Veteran — Sonar Technician Surface, First Class `E-6`
+### U.S. Navy Veteran — Sonar Technician Surface
 
 My foundation is operational systems work: sonar, acoustic analysis, electronics troubleshooting, maintenance, supervision, and decision support under real-world constraints.
 
